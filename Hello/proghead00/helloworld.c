@@ -2,5 +2,5 @@
 
 void main()
 {
-    println("Hello Hacktoberfest from Vietnam");
+    println("Hello World!");
 }
